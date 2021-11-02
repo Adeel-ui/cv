@@ -1,0 +1,22 @@
+body {
+    font-family: 'Poppins', sans-serif;
+  }
+
+  .wraper {
+    width: 1024px;
+    margin: 0 auto;
+  }
+
+  h1 {
+    font-weight: 300;
+    font-size: 3rem;
+    padding: 3rem 0 0;
+
+    span {
+       
+        align-items: center;
+        display: flex;
+        justify-content: center;
+      
+    }
+  }
